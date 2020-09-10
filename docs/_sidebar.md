@@ -1,19 +1,15 @@
-- 设计模式
+- 直接数值模拟
 
-  - [第一章节](desgin-pattern/Java面试必备：手写单例模式.md)
-  - [工厂模式](desgin-pattern/工厂模式超详解（代码示例）.md)
-  - [原型模式](desgin-pattern/设计模式之原型模式.md)
-  - [代理模式](desgin-pattern/设计模式之代理模式.md)
+  - [第一节](desgin-pattern/Java面试必备：手写单例模式.md)
+  - [第二节](desgin-pattern/工厂模式超详解（代码示例）.md)
 
-- Spring框架
 
-  - [初识spring框架](spring/【10分钟学Spring】：（一）初识Spring框架.md)
-  - [依赖注入及示例](spring/【10分钟学Spring】：（二）一文搞懂spring依赖注入（DI）.md)
-  - [spring的条件化装配](spring/【10分钟学Spring】：（三）你了解spring的高级装配吗_条件化装配bean.md)
+- 离散颗粒模拟
 
-- 数据库
+  - [第一节](spring/【10分钟学Spring】：（一）初识Spring框架.md)
+  - [第二节](spring/【10分钟学Spring】：（二）一文搞懂spring依赖注入（DI）.md)
 
-作者：程序员二狗子
-链接：https://zhuanlan.zhihu.com/p/101126727
-来源：知乎
+- 双流体模型
+
+作者：Tian
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
